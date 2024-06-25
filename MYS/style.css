@@ -291,8 +291,9 @@ banner
 .img-fill img {
   position: relative;
   display: inline-block;
-  /* max-width: 100%; */
-    width: 1519px;
+   max-width: 100%;
+  /* width: 1519px; */
+    
 }
 
 
